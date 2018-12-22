@@ -1,0 +1,8 @@
+- Add "cleaning" step to accel calcs
+- Plot / consider orientation & direction
+- Consider relative x-y positions
+    - create PlotLy animation?
+    
+
+END GOALS:
+- correlate types of blocks / tackles (orientations / directions / relative positions) with injury
